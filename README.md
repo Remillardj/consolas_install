@@ -1,3 +1,7 @@
+# [DEPRECATED REPO]
+*Use: https://github.com/Remillardj/MacConfig*
+# [DEPRECATED REPO]
+
 # consolas_install
 A font installation script for macOS High Sierra.
 
